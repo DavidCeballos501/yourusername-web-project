@@ -129,3 +129,16 @@ a:hover {
     display: block;
     transform: translate(-50%, -50%) scale(3.5);
 }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+}
